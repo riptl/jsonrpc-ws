@@ -1,6 +1,6 @@
 {
   "name": "jsonrpc-ws-pubsub",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Node.js JSON-RPC WS Client",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "ws",
     "websocket"
   ],
-  "author": "Richard Patel <me@terorie.dev>",
+  "author": {
+    "name": "The Nimiq Core Development Team",
+    "url": "https://nimiq.com/"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/terorie/jsonrpc-ws/issues"
