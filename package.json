@@ -1,6 +1,6 @@
 {
   "name": "jsonrpc-pubsub",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Node.js JSON-RPC PubSub Server & Client",
   "main": "index.js",
   "scripts": {
