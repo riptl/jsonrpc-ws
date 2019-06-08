@@ -1,6 +1,6 @@
 {
   "name": "jsonrpc-ws-pubsub",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Node.js JSON-RPC WS Client",
   "main": "index.js",
   "scripts": {
