@@ -141,8 +141,8 @@ async function testWsReverse() {
 
 async function runTests() {
     try {
-        //await testHttpOnly();
-        //await testWsConnect();
+        await testHttpOnly();
+        await testWsConnect();
         await testWsReverse();
     } catch (e) {
         console.error(e);
